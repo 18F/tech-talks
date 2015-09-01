@@ -8,6 +8,7 @@ Materials for a Jupyter Tech Talk
 1. Jupyter notebook tour using [try.jupyter.org](https://try.jupyter.org/ "try Jupyter in your browser")
 1. [Non-Python kernals](https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages "IPython kernals for other languages")
 1. Quick runthrough of stuff you can do
+    * easy HTML output
     * widgets (examples and tutorials [here](https://github.com/ipython/ipywidgets/blob/master/examples/Index.ipynb "IPython ipywidgets example notebooks"))
     * rendering on GitHub
     * Dockerized notebooks: [tempnb](https://github.com/jupyter/tmpnb "tempnb")
