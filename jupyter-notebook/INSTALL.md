@@ -13,9 +13,9 @@ Another option is to skip these instructions and install the Anaconda Python dis
 
         $ git clone git://github.com/bsweger/jupyter-tech-talk.git
 
-1. Change to the project directory:
+1. Change to the directory that contains the Jupyter Notebook talk:
 
-        $ cd jupyter-tech-talk
+        $ cd tech-talks/jupyter-notebook
 
 1. Install the required Python libraries:
 
