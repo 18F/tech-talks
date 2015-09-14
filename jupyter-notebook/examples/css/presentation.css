@@ -1,0 +1,99 @@
+<style>
+.rendered_html {
+font-size: 150%;
+line-height: 1.3;
+}
+
+.rendered_html li {
+line-height: 2;
+}
+
+.rendered_html h1{
+margin: 0.5em 0;
+line-height: 1.3;
+}
+
+.rendered_html h2{
+margin: 0.15em 0;
+line-height: 1.2;
+}
+
+.input_prompt {
+font-size: 120%;
+font-family: Consolas;
+}
+
+.CodeMirror-lines {
+font-size: 120%;
+font-family: Consolas;
+}
+
+.output_area {
+font-size: 120%;
+font-family: Consolas;
+}</''>
+
+.rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
+  border: 1px  #4f5b66 solid;
+  white-space: nowrap;
+}
+.rendered_html thead {
+  background-color: #65737e;
+}
+.rendered_html th {font-weight: normal;}
+table.dataframe tr {
+  border: 1px #4f5b66;
+  font-size: 50%;
+}
+
+/* remove big margins around title */
+div.text_cell_render.border-box-sizing.rendered_html {
+    margin: 0;
+    padding: 0;
+    margin-left: 1ex;
+}
+div.cell.text_cell.border-box-sizing {
+    margin: 0;
+    padding: 0;
+}
+.rendered_html h1 {
+    margin: 0;
+    padding: 0;
+}
+.rendered_html h2 {
+    margin: 0;
+    padding: 0;
+}
+.rendered_html h3 {
+    margin: 0;
+    padding: 0;
+}
+
+ /* remove In/Out prompt */
+div.prompt {
+    display: none;
+}
+
+/* remove margin in front of output */
+div.output_subarea {
+    border: none;
+}
+
+/* Pandas formatting courtesty http://blog.henryhhammond.com/pandas-formatting-snippets/ */
+/* Pretty Pandas Dataframes */
+.dataframe * {border-color: #c0c0c0 !important;}
+.dataframe th{background: #eee; font-weight: bold;}
+.dataframe td{
+    background: #fff;
+/*    text-align: right; */
+    min-width:5em;
+}
+
+/* Format summary rows */
+.dataframe-summary-row tr:last-child,
+.dataframe-summary-col td:last-child{
+    background: #eee;
+    font-weight: 500;
+}
+
+</style>
