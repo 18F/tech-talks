@@ -1,2 +1,5 @@
 jupyter>=1.0.0
 matplotlib
+requests
+pandas
+pyaml
