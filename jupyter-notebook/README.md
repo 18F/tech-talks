@@ -2,33 +2,26 @@
 
 Materials for a Jupyter Notebook Tech Talk
 
-## Ideas: Things to Cover
+## Things We'll Cover
 
-1. Very quick IPython/Jupyter overview and why they're separate projects now
-1. Jupyter notebook tour using [try.jupyter.org](https://try.jupyter.org/ "try Jupyter in your browser")
-1. [Non-Python kernals](https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages "IPython kernals for other languages") (Catherine researches limitations of non-JuPyteR kernels like Ruby)
+1. Very quick IPython/Jupyter overview (Becky)
+    * history
+    * why they're separate projects now
+1. Jupyter notebook tour (Catherine)
+1. [Non-Python kernals](https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages "IPython kernals for other languages") (Catherine)
 1. Quick runthrough of stuff you can do
-    * easy HTML output (Catherine)
-    * widgets (examples and tutorials [here](https://github.com/ipython/ipywidgets/blob/master/examples/Index.ipynb "IPython ipywidgets example notebooks"))
-    * rendering on GitHub
-    * Dockerized notebooks: [tempnb](https://github.com/jupyter/tmpnb "tempnb") (Catherine)
-    * Dockerized notebook cells: [Thebe](https://oreillymedia.github.io/thebe/ "Thebe") (Catherine)
-1. Sharing is caring
-    * [nbviewer](http://nbviewer.ipython.org/ "Jupyter notebook viewer")
-    * [Running a notebook server](http://jupyter-notebook.readthedocs.org/en/latest/public_server.html "Running a notebook server")
-1. The future
+    * all the good stuff (Catherine)
+    * [widgets](https://github.com/ipython/ipywidgets/blob/master/examples/Index.ipynb "IPython ipywidgets example notebooks") (Becky)
+    * sharing and publishing notebooks (Catherine)
+1. Use Cases (Becky)
+    * now (demos, slides, authoring, [reproducible research]((http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261 "Nature - interactive notebooks"))
+    * road map
 
-## Use Cases
+## Things We Won't Cover
 
-1. Demos
-1. Making slides
-1. Authoring
-1. Reproducible research
-    * [Nature](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261 "Nature - interactive notebooks")
-
-## Things Not To Cover?
+There won't be time for these topics, but we have a [few notes here](EXTRA.md).
 
 1. Installation
-1. [Config](http://jupyter-notebook.readthedocs.org/en/latest/config.html#config "Jupyter notebook configuration")
-1. Extensions
-1. [Security model](http://jupyter-notebook.readthedocs.org/en/latest/security.html "Jupyter security model")
+1. Notebook configuration
+1. Styling notebooks
+1. Security model
