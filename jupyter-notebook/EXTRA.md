@@ -90,3 +90,11 @@ Jupyter consists of two processes:
 ## Notebook Security
 
 [Information about Jupyter notebook's security model.](http://jupyter-notebook.readthedocs.org/en/latest/security.html "Security in Jupyter Notebooks")
+
+## Notebook extensions
+
+Notebook extensions add features to the notebook and are mostly written in Javascript.
+
+It seems that the notebook extension community is still calling itself _IPython_, so keep that in mind when Googling.
+
+Here's a [repo of helpful extensions](https://github.com/ipython-contrib/IPython-notebook-extensions).
