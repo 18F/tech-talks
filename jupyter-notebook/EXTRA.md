@@ -1,6 +1,6 @@
-# Installing Jupyter and the Talk Components
+## Installing Jupyter and the Talk Components
 
-## Local Setup
+### Local Setup
 
 If you're running Linux or OSX and already have Python 3x running, you can clone this repo and install everything using its requirements.txt file. Assuming you're in a Python virtual environment, the process is relatively straightforward.
 
@@ -27,7 +27,7 @@ Another option is to skip these instructions and install a distribution that inc
 
 This command will fire up a local Jupyter notebook server in your console and open a web browser to the URL of web application (by default, `http://127.0.0.1:8888`)
 
-## Use Anaconda Distribution
+### Use Anaconda Distribution
 
 Continuum's [Anaconda Python distribution](https://store.continuum.io/cshop/anaconda/) is a great way to get a hassle-free install of Jupyter and many, many Python libraries used in scientific computing - no matter what platform you're on.
 
@@ -43,3 +43,58 @@ It comes with a _lot_ of packages and might be overkill. But once you start play
 **Note:** If there's an _Upate_ button next to ipython-notebook, click that first (before you launch).
 
 ![Anaconda Launcher](assets/img/anaconda-launcher.png)
+
+## Jupyter Notebook Config
+
+To create a config file that will apply to all local notebooks:
+
+```$ jupyter notebook --generate-config```
+
+This creates config file template with everything commented out. By default, the file is created in ```[home directory]\.jupyter\jupyter_notebook_config.py```.
+
+You can create more than one configuration file. To start jupyter notebook using a config file other than the default ```jupyter_notebook_config.py```:
+
+```$ jupyter notebook --config=~/.jupyter/different_config_file.py```
+
+To show the location of the config directory:
+
+```$ jupyter --config-dir```
+
+[More info on Jupyter config file options.](http://jupyter-notebook.readthedocs.org/en/latest/config.html#config "Jupyter config files")
+
+[More info about default Jupyter directories and how to change them via environment variables](http://jupyter.readthedocs.org/en/latest/system.html "Jupyter on Your System")
+
+## Formatting Notebooks
+
+* To style an individual notebook, import a css file. For example:  
+    ```from IPython.core.display import HTML
+styles = open("css/presentation.css", "r").read()
+HTML(styles)```
+
+* To style all local notebooks, add a ```custom.css`` file to your Jupyter config directory:
+    1. Determine the location of your Jupyter config directory:  
+    ```$ jupyter --config-dir```
+    2. In the above folder, create a folder called ```custom```
+    3. Add ```custom.css``` to the ```custom``` folder. For example: ```~/.jupyter/custom/custom.css```
+
+
+According to the Jupyter 4.0 docs, there are plans to provide a mechanism for notebook themes.
+
+## Connect to Existing Kernel
+Jupyter consists of two processes:
+* [Kernel](https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages): runs code
+* Frontend (_e.g._, [terminal console](https://github.com/jupyter/jupyter_console "Jupyter console on GitHub"), [QTConsole](https://github.com/jupyter/qtconsole "QTConsole on GitHub"), [notebook](")
+
+[Connect multiple frontends to an single kernel](http://jdfreder-notebook.readthedocs.org/en/docs/examples/Notebook/Connecting%20with%20the%20Qt%20Console.html)
+
+## Notebook Security
+
+[Information about Jupyter notebook's security model.](http://jupyter-notebook.readthedocs.org/en/latest/security.html "Security in Jupyter Notebooks")
+
+## Notebook extensions
+
+Notebook extensions add features to the notebook and are mostly written in Javascript.
+
+It seems that the notebook extension community is still calling itself _IPython_, so keep that in mind when Googling.
+
+Here's a [repo of helpful extensions](https://github.com/ipython-contrib/IPython-notebook-extensions).
