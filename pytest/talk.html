@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# the case for pytest
+
+---
+
+# xunit-style assertions
+
+```python
+import unittest
+
+class TestOperators(unittest.TestCase):
+
+    def test_addition(self):
+        self.assertEqual(2 + 2, 4)
+
+    def test_comparison(self):
+        self.assertGreaterEqual(5, 4)
+
+    def test_dict_get(self):
+        data = {'foo': 'bar'}
+        self.assertIsNone(data.get('baz'))
+
+    def test_list_in(self):
+        data = [1, 2, 3]
+        self.assertNotIn(4, data)
+
+    def test_isinstance(self):
+        self.assertIsInstance({}, dict)
+```
+
+---
+
+# pytest assertions
+
+```python
+def test_addition():
+    assert 2 + 2 == 4
+
+def test_comparison():
+    assert 5 >= 4
+
+def test_dict_get():
+    data = {'foo': 'bar'}
+    assert foo.get('baz') is None
+
+def test_list_in():
+    data = [1, 2, 3]
+    assert 4 not in data
+
+def test_isinstance():
+    assert isinstance({}, data)
+```
+
+---
+
+# why it matters
+
+* assertions are just python--no special syntax to learn
+    * see also chai / jasmine: `expect(foo).to.not.deep.equal(bar)`
+* assertions aren't methods of a special class--call them anywhere
+* no more camelCased assertions!
+
+---
+
+# xunit fixtures
+
+```python
+class DbTestCase(unittest.TestCase):
+    def setUp(self):
+        super(TransactionMixin, self).setUp()
+        session.begin()
+    def tearDown(self):
+        super(TransactionMixin, self).tearDown()
+        session.rollback()
+
+class AppTestCase(unittest.TestCase):
+    def setUp(self):
+        super(AppTestCase, self).setUp()
+        self.client = TestApp(app)
+        self.context = self.client.test_request_context()
+        self.context.push()
+    def tearDown(self):
+        super(AppTestCase, self).tearDown()
+        self.context.pop()
+
+class TestApp(DbTestCase, AppTestCase):
+    def setUp(self):
+        super(TestApp, self).setUp()
+        self.fixture = FixtureFactory()
+    def test_app(self):
+        ...
+```
+
+---
+
+# pytest fixtures
+
+```python
+@pytest.yield_fixture
+def transaction():
+    session.begin()
+    yield session
+    session.rollback()
+
+@pytest.yield_fixture
+def client():
+    client = TestApp(app)
+    with client.test_request_context():
+        yield client
+
+@pytest.fixture
+def rows():
+    return FixtureFactory()
+
+def test_app(transaction, client, rows):
+    ...
+```
+
+---
+
+# why it matters
+
+* explicit is better than implicit
+* each test injects only the fixtures it needs
+* exposes idiomatic constructs like generators, context managers
+* easier to reuse code
+
+---
+
+# parameterized tests
+
+```python
+import pytest
+
+@pytest.mark.parametrize(['input', 'expected'], [
+    ('frog', True),
+    ('shoe', False),
+    ('desk', False),
+    ...
+])
+def test_is_alive(input, expected):
+    assert is_alive(input) is expected
+```
+
+---
+
+# monkeypatching
+
+```python
+def test_api_call(monkeypatch):
+    mock_request = mock.Mock()
+    monkeypatch.setattr(client, 'request', mock_request)
+    ...
+```
+
+```python
+def test_parse_env(monkeypatch):
+    monkeypatch.setenv('CF_INSTANCE_INDEX', '0')
+    ...
+```
+---
+
+# invocations
+
+```bash
+py.test --lf         # only include failing tests from last run
+py.test -k alive     # only include tests named "*alive*"
+py.test -x           # stop after first failing test
+py.test --maxfail=2  # stop after second failing test
+py.test --cov lib    # get test coverage for package "lib"
+py.test --pdb        # drop into interactive debugger on fail
+```
+
+---
+
+# plugins
+
+* pytest-xdist
+* pytest-django
+* pytest-tornado
+
+150+ plugins at https://pytest.org/latest/plugins_index/index.html
+
+---
+
+# try pytest!
+
+* minimal boilerplate
+* write idiomatic code
+* fully backwards-compatible
+
+```python
+pip install pytest
+py.test
+```
+
+    </textarea>
+    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
