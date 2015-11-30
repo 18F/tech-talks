@@ -1,10 +1,8 @@
 # Future Presenters
-**Scheduled 11/23/2015**
-* Google Scripts - Dave Z
-* Pytest - Josh Carp
 
 **Scheduled 12/21**
-* Intro to Machine Learning - Tony (will know length in a week or two)
+* Intro to Machine Learning - Tony
+* ?
 
 **Unscheduled**
 * CSS Modular Architecture - Marco S.
@@ -42,3 +40,7 @@
 **10/26/2015**
 * HMAC/authentication stuff - Mike Bland
 * Go - James
+
+**11/23/2015**
+* Google Scripts - Dave Z
+* Pytest - Josh Carp
