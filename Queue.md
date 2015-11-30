@@ -2,7 +2,7 @@
 
 **Scheduled 12/21**
 * Intro to Machine Learning - Tony
-* Effective Meetings - Fureigh
+* Making Meetings Not Suck (Your Time Away) - Fureigh
 
 **Unscheduled**
 * CSS Modular Architecture - Marco S.
