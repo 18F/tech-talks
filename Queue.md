@@ -4,6 +4,10 @@
 * Intro to Machine Learning - Tony
 * Making Meetings Not Suck (Your Time Away) - Fureigh
 
+**Scheduled 1/25/16**
+* Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack
+* ?
+
 **Unscheduled**
 * CSS Modular Architecture - Marco S.
 * Data visualization and D3 - Shawn
