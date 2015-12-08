@@ -8,6 +8,14 @@
 * Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack
 * ?
 
+**Scheduled 2/22/16**
+*
+*
+
+**Scheduled 3/28/16**
+*
+*
+
 **Unscheduled**
 * CSS Modular Architecture - Marco S.
 * Data visualization and D3 - Shawn
