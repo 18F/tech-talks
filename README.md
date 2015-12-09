@@ -12,6 +12,12 @@ If you're an 18F staffer who is giving a tech talk, please create a talk-specifi
 
 If you're not an 18F staffer but want to see what people are talking about, poke around. These are quick, introductory talks; thus there may not be extensive documentation, but there might be something to pique your interest.
 
+## FAQ
+
+Q. As a presenter, how do I tock this time?
+
+A. Training / Prof Dev - Non Billable
+
 ## Public domain
 
 As stated in [LICENSE.md](LICENSE.md), this project is in the worldwide public domain.
