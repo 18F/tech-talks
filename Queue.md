@@ -17,6 +17,7 @@
 * ?
 
 **Unscheduled**
+* Swagger for API documentation - Linsday Young
 * CSS Modular Architecture - Marco S.
 * Data visualization and D3 - Shawn
 * Promises, Generators, and frontend Async - Aidan (good way to force myself to learn Generators, haha)
