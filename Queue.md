@@ -16,7 +16,15 @@
 * ?
 * ?
 
+**Scheduled 4/26/16**
+* ?
+
+**Scheduled 5/23/16**
+* ?
+
 **Unscheduled**
+
+**Please don't add talks here. Choose a slot above instead.**
 * Swagger for API documentation - Linsday Young
 * CSS Modular Architecture - Marco S.
 * Data visualization and D3 - Shawn
