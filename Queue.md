@@ -34,7 +34,7 @@
 * Tricks for HTML Email in Rails - Aidan
 * Data modeling and implicit assumptions about an imprecise world - Jacob
 * Ruby on Rails 4 patterns and best practices - Moncef
-* Docker - Ozzy
+* Docker basics - Ozzy/Aidan
 * Data munging with Pandas - Becky
 * async / await in python3.5 / es2016 - Josh Carp
 
