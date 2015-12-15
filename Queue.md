@@ -6,7 +6,7 @@
 
 **Scheduled 1/25/16**
 * Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack
-* ?
+* Docker - Aidan
 
 **Scheduled 2/22/16**
 * ?
