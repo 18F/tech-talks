@@ -1,7 +1,7 @@
 # Future Presenters
 
 **Scheduled 12/21**
-* Towards A Unique Universal Identifiers for Legal Entities - Tony
+* Towards A Unique Universal Identifier for Legal Entities - Tony
 * ~~Making Meetings Not Suck (Your Time Away) - Fureigh~~
 
 **Scheduled 1/25/16**
