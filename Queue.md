@@ -2,14 +2,14 @@
 
 **Scheduled 12/21**
 * Towards A Unique Universal Identifiers for Legal Entities - Tony
-* Making Meetings Not Suck (Your Time Away) - Fureigh
+* ~~Making Meetings Not Suck (Your Time Away) - Fureigh~~
 
 **Scheduled 1/25/16**
 * Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack
 * Docker - Aidan
 
 **Scheduled 2/22/16**
-* ?
+* Making Meetings Not Suck (Your Time Away) - Fureigh
 * ?
 
 **Scheduled 3/28/16**
