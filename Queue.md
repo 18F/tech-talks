@@ -1,9 +1,5 @@
 # Future Presenters
 
-**Scheduled 12/21**
-* Towards A Unique Universal Identifier for Legal Entities - Tony
-* ~~Making Meetings Not Suck (Your Time Away) - Fureigh~~
-
 **Scheduled 1/25/16**
 * Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack
 * Docker - Aidan
@@ -66,3 +62,6 @@
 **11/23/2015**
 * Google Scripts - Dave Z
 * Pytest - Josh Carp
+
+**12/21/2015**
+* Towards A Unique Universal Identifier for Legal Entities - Tony
