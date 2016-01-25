@@ -6,7 +6,7 @@
 
 **Scheduled 2/22/16**
 * Making Meetings Not Suck (Your Time Away) - Fureigh
-* ?
+* Vulnerability Scanning with OWASP ZAP - Dave Best
 
 **Scheduled 3/28/16**
 * ?
