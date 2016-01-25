@@ -9,7 +9,7 @@
 * Vulnerability Scanning with OWASP ZAP - Dave Best
 
 **Scheduled 3/28/16**
-* ?
+* Criminal Justice data collection - Ryan Sibley
 * ?
 
 **Scheduled 4/26/16**
