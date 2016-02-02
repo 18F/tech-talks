@@ -1,16 +1,12 @@
 # Future Presenters
 
-**Scheduled 1/25/16**
-* Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack
-* Docker - Aidan
-
 **Scheduled 2/22/16**
 * Making Meetings Not Suck (Your Time Away) - Fureigh
 * Vulnerability Scanning with OWASP ZAP - Dave Best
 
 **Scheduled 3/28/16**
 * Criminal Justice data collection - Ryan Sibley
-* ?
+* Technical Debt - Kane Baccigalupi
 
 **Scheduled 4/26/16**
 * ?
@@ -21,7 +17,6 @@
 **Unscheduled**
 
 **Please don't add talks here. Choose a slot above instead.**
-* Behavior Driven Development - Kane
 * Technical deep div about healthcare.gov - Eric Maland
 * Swagger for API documentation - Linsday Young
 * CSS Modular Architecture - Marco S.
@@ -31,7 +26,6 @@
 * Tricks for HTML Email in Rails - Aidan
 * Data modeling and implicit assumptions about an imprecise world - Jacob
 * Ruby on Rails 4 patterns and best practices - Moncef
-* Docker - Ozzy
 * Data munging with Pandas - Becky
 * async / await in python3.5 / es2016 - Josh Carp
 
@@ -66,3 +60,7 @@
 
 **12/21/2015**
 * Towards A Unique Universal Identifier for Legal Entities - Tony
+
+**Scheduled 1/25/16**
+* Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack
+* Docker - Aidan
