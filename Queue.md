@@ -9,7 +9,7 @@
 * Technical Debt - Kane Baccigalupi
 
 **Scheduled 4/26/16**
-* ?
+* Front end framework tradeoffs - Jeremia Kimelman, Lenny Bogdonoff, Marco Segreto
 
 **Scheduled 5/23/16**
 * ?
