@@ -12,7 +12,7 @@
 * Front end framework tradeoffs - Jeremia Kimelman, Lenny Bogdonoff, Marco Segreto
 
 **Scheduled 5/23/16**
-* Algorithms and Runing Time - Amanda Robinson
+* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson
 
 **Unscheduled**
 
