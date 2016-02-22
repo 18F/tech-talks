@@ -1,7 +1,6 @@
 # Future Presenters
 
 **Scheduled 2/22/16**
-* Making Meetings Not Suck (Your Time Away) - Fureigh
 * Vulnerability Scanning with OWASP ZAP - Dave Best
 
 **Scheduled 3/28/16**
@@ -10,6 +9,7 @@
 
 **Scheduled 4/26/16**
 * Front end framework tradeoffs - Jeremia Kimelman, Lenny Bogdonoff, Marco Segreto
+* Making Meetings Not Suck (Your Time Away) - Fureigh
 
 **Scheduled 5/23/16**
 * Algorithms and Algorithm Analysis/Running Time - Amanda Robinson
