@@ -13,13 +13,13 @@
 
 **Scheduled 5/23/16**
 * Algorithms and Algorithm Analysis/Running Time - Amanda Robinson
+* CSS Modular Architecture - Marco S.
 
 **Unscheduled**
 
 **Please don't add talks here. Choose a slot above instead.**
 * Technical deep div about healthcare.gov - Eric Maland
 * Swagger for API documentation - Linsday Young
-* CSS Modular Architecture - Marco S.
 * Data visualization and D3 - Shawn
 * Promises, Generators, and frontend Async - Aidan (good way to force myself to learn Generators, haha)
 * JS Module Loading options - Aidan
