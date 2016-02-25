@@ -1,8 +1,5 @@
 # Future Presenters
 
-**Scheduled 2/22/16**
-* Vulnerability Scanning with OWASP ZAP - Dave Best
-
 **Scheduled 3/28/16**
 * Criminal Justice data collection - Ryan Sibley
 * Technical Debt - Kane Baccigalupi
@@ -14,6 +11,22 @@
 **Scheduled 5/23/16**
 * Algorithms and Algorithm Analysis/Running Time - Amanda Robinson
 * CSS Modular Architecture - Marco S.
+
+**Scheduled 6/27/16**
+* ?
+* ?
+
+**Scheduled 7/25/16**
+* ?
+* ?
+
+**Scheduled 8/22/16**
+* ?
+* ?
+
+**Scheduled 9/26/16**
+* ?
+* ?
 
 **Unscheduled**
 
@@ -61,6 +74,9 @@
 **12/21/2015**
 * Towards A Unique Universal Identifier for Legal Entities - Tony
 
-**Scheduled 1/25/16**
+**1/25/16**
 * Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack
 * Docker - Aidan
+
+**2/22/16**
+* Vulnerability Scanning with OWASP ZAP - Dave Best
