@@ -72,11 +72,11 @@
 * Pytest - Josh Carp
 
 **12/21/2015**
-* Towards A Unique Universal Identifier for Legal Entities - Tony
+* Towards A Unique Universal Identifier for Legal Entities - Tony ([video](https://www.youtube.com/watch?v=QJu0g7VryDU))
 
 **1/25/16**
-* Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack
-* Docker - Aidan
+* Lessons Learned From My Old Career (an Electronic Medical Records case study) - Will Slack  ([video](https://youtu.be/_ZIWTchpek8))
+* Docker - Aidan ([video](https://youtu.be/_ZIWTchpek8?t=29m48s))
 
 **2/22/16**
-* Vulnerability Scanning with OWASP ZAP - Dave Best
+* Vulnerability Scanning with OWASP ZAP - Dave Best ([video](https://www.youtube.com/watch?v=2Dp7pAvKHaM))
