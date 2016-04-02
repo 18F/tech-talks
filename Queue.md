@@ -1,19 +1,16 @@
 # Future Presenters
 
-**Scheduled 3/28/16**
+**Scheduled 4/26/16**
 * Criminal Justice data collection - Ryan Sibley (30 mins)
 * Technical Debt - Kane Baccigalupi (30 mins)
 
-**Scheduled 4/26/16**
+**Scheduled 5/23/16**
 * Front end framework tradeoffs - Jeremia Kimelman, Lenny Bogdonoff, Marco Segreto (30 mins)
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
 
-**Scheduled 5/23/16**
+**Scheduled 6/27/16**
 * Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins)
 * CSS Modular Architecture - Marco S. (30 mins)
-
-**Scheduled 6/27/16**
-* ? (? mins)
 
 **Scheduled 7/25/16**
 * ? (? mins)
