@@ -9,7 +9,6 @@
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
 
 **Scheduled 6/27/16**
-* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins)
 * CSS Modular Architecture - Marco S. (30 mins)
 
 **Scheduled 7/25/16**
@@ -22,6 +21,8 @@
 * ? (? mins)
 
 **Unscheduled**
+* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins) -- November or later
+
 
 **Please don't add talks here. Choose a slot above instead.**
 * Technical deep div about healthcare.gov - Eric Maland
