@@ -1,6 +1,6 @@
 # Future Presenters
 
-**Scheduled 4/26/16**
+**Scheduled 4/25/16**
 * Criminal Justice data collection - Ryan Sibley (30 mins)
 * Technical Debt - Kane Baccigalupi (30 mins)
 
