@@ -72,5 +72,5 @@
 * Vulnerability Scanning with OWASP ZAP - Dave Best ([video](https://www.youtube.com/watch?v=2Dp7pAvKHaM))
 
 **4/25/16**
-* [Criminal Justice data collection](https://docs.google.com/a/gsa.gov/presentation/d/1qyftJiZIDYxLH9cI4LZywEk4CknzQd36TJes9WiKezA/edit?usp=sharing) - Ryan Sibley (30 mins)
-* [Technical Debt](https://docs.google.com/presentation/d/14CwxeL_qvMWwB7rZe_WHVfHXQNpwFzLixBVbdb9EBIw/edit#slide=id.p) - Kane Baccigalupi (30 mins)
+* [Criminal Justice data collection](https://docs.google.com/a/gsa.gov/presentation/d/1qyftJiZIDYxLH9cI4LZywEk4CknzQd36TJes9WiKezA/edit?usp=sharing) - Ryan Sibley (30 mins) 
+* [Technical Debt](https://docs.google.com/presentation/d/14CwxeL_qvMWwB7rZe_WHVfHXQNpwFzLixBVbdb9EBIw/edit#slide=id.p) - Kane Baccigalupi (30 mins) [video](https://www.youtube.com/watch?v=9TON4bkTJhs&feature=youtu.be)
