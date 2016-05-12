@@ -6,6 +6,7 @@
 
 **Scheduled 6/27/16**
 * CSS Modular Architecture - Marco S. (30 mins)
+*  (<= 30 mins)
 
 **Scheduled 7/25/16**
 * ? (? mins)
