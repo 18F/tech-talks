@@ -6,7 +6,7 @@
 
 **Scheduled 6/27/16**
 * CSS Modular Architecture - Marco S. (30 mins)
-* Elixir: the best of Python and Ruby (15-30 mins)
+* Elixir: the best of Python and Ruby - Robb Shecter (15-30 mins)
 
 **Scheduled 7/25/16**
 * ? (? mins)
