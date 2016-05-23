@@ -16,10 +16,19 @@
 **Scheduled 9/26/16**
 * ? (? mins)
 
+**Scheduled 10/24/16**
+* ? (? mins)
+
+**Scheduled 11/28/16**
+* ? (? mins)
+
+**Scheduled 12/19/16**
+* ? (? mins)
+
 **Unscheduled**
 * Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins) -- November or later
 
-
+# To be scheduled or removed
 **Please don't add talks here. Choose a slot above instead.**
 * Technical deep div about healthcare.gov - Eric Maland
 * Swagger for API documentation - Linsday Young
