@@ -2,7 +2,6 @@
 
 **Scheduled 5/23/16**
 * Front end framework tradeoffs - Jeremia Kimelman, Lenny Bogdonoff, Marco Segreto (30 mins)
-* Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
 
 **Scheduled 6/27/16**
 * CSS Modular Architecture - Marco S. (30 mins)
@@ -32,6 +31,8 @@
 * Ruby on Rails 4 patterns and best practices - Moncef
 * Data munging with Pandas - Becky
 * async / await in python3.5 / es2016 - Josh Carp
+* Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
+
 
 # Past Presenters
 **5/15/2015**
