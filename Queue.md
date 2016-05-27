@@ -1,8 +1,5 @@
 # Future Presenters
 
-**Scheduled 5/23/16**
-* Front end framework tradeoffs - Jeremia Kimelman, Lenny Bogdonoff, Marco Segreto (30 mins)
-
 **Scheduled 6/27/16**
 * CSS Modular Architecture - Marco S. (30 mins)
 * Elixir: the best of Python and Ruby - Robb Shecter (15-30 mins)
@@ -85,3 +82,6 @@
 **4/25/16**
 * [Criminal Justice data collection](https://docs.google.com/a/gsa.gov/presentation/d/1qyftJiZIDYxLH9cI4LZywEk4CknzQd36TJes9WiKezA/edit?usp=sharing) - Ryan Sibley (30 mins) 
 * [Technical Debt](https://docs.google.com/presentation/d/14CwxeL_qvMWwB7rZe_WHVfHXQNpwFzLixBVbdb9EBIw/edit#slide=id.p) - Kane Baccigalupi (30 mins) [video](https://www.youtube.com/watch?v=9TON4bkTJhs&feature=youtu.be)
+
+**5/23/16**
+* Front end testing at 18F - Jeremia Kimelman, Lenny Bogdonoff, Marco Segreto (30 mins) [video](https://www.youtube.com/watch?v=8_y3D5zS6DA)
