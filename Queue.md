@@ -8,7 +8,7 @@
 * ? (? mins)
 
 **Scheduled 8/22/16**
-* ? (? mins)
+* Data munging with Pandas - Becky (30 min)
 
 **Scheduled 9/26/16**
 * ? (? mins)
