@@ -5,7 +5,8 @@
 * Elixir: the best of Python and Ruby - Robb Shecter (15-30 mins)
 
 **Scheduled 7/25/16**
-* ? (? mins)
+* Incident reporting (real title to come) - Jacob K-M and Jeremia (30 mins)
+* ?
 
 **Scheduled 8/22/16**
 * Data munging with Pandas - Becky (30 min)
