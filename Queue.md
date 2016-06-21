@@ -6,7 +6,7 @@
 
 **Scheduled 7/25/16**
 * Incident reporting (real title to come) - Jacob K-M and Jeremia (30 mins)
-* ?
+* Compliance work (real title to come) - Aidan (30 mins)
 
 **Scheduled 8/22/16**
 * Data munging with Pandas - Becky (30 min)
