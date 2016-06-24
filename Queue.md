@@ -25,19 +25,6 @@
 
 **Unscheduled**
 * Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins) -- November or later
-
-# To be scheduled or removed
-**Please don't add talks here. Choose a slot above instead.**
-* Technical deep div about healthcare.gov - Eric Maland
-* Swagger for API documentation - Linsday Young
-* Data visualization and D3 - Shawn
-* Promises, Generators, and frontend Async - Aidan (good way to force myself to learn Generators, haha)
-* JS Module Loading options - Aidan
-* Tricks for HTML Email in Rails - Aidan
-* Data modeling and implicit assumptions about an imprecise world - Jacob
-* Ruby on Rails 4 patterns and best practices - Moncef
-* Data munging with Pandas - Becky
-* async / await in python3.5 / es2016 - Josh Carp
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
 
 
