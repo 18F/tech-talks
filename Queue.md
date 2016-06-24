@@ -1,4 +1,12 @@
-# Future Presenters
+# 18F Monthly Tech Talks
+
+## Submitting a talk
+Select a time slot below, add your talk and commit right to master. That's all! Anyone at 18F is welcome to submit a talk and attend. 
+
+## How to attend
+See the 18f-dev calendar in Google. They are held on the fourth Monday of each month.
+
+## Schedule
 
 **Scheduled 6/27/16**
 * CSS Modular Architecture - Marco S. (30 mins)
@@ -23,12 +31,12 @@
 **Scheduled 12/19/16**
 * ? (? mins)
 
-**Unscheduled**
+**Unscheduled** Please don't add talks here. Pick a time slot above instead.
 * Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins) -- November or later
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
 
 
-# Past Presenters
+# Archive
 **5/23/16**
 * Front end testing at 18F - Jeremia Kimelman, Lenny Bogdonoff, Marco Segreto (30 mins) [video](https://www.youtube.com/watch?v=8_y3D5zS6DA)
 
