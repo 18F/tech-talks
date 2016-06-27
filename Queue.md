@@ -10,7 +10,7 @@ See the 18f-dev calendar in Google. They are held on the fourth Monday of each m
 
 **Scheduled 6/27/16**
 * CSS Modular Architecture - Marco S. (30 mins)
-* Elixir: the best of Python and Ruby - Robb Shecter (15-30 mins)
+* Elixir: the best of Python and Ruby - Robb Shecter (30 mins)
 
 **Scheduled 7/25/16**
 * Incident reporting (real title to come) - Jacob K-M and Jeremia (30 mins)
