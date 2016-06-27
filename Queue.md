@@ -18,6 +18,7 @@ See the 18f-dev calendar in Google. They are held on the fourth Monday of each m
 
 **Scheduled 8/22/16**
 * Data munging with Pandas - Becky (30 min)
+* Make CSS Great Again (with Atomic CSS) - Brendan (20 mins)
 
 **Scheduled 9/26/16**
 * ? (? mins)
