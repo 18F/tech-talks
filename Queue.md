@@ -4,7 +4,7 @@
 Select a time slot below, add your talk and commit right to master. That's all! Anyone at 18F is welcome to submit a talk and attend. 
 
 ## How to attend
-See the 18f-dev calendar in Google. They are held on the fourth Monday of each month.
+See the 18F-Developers calendar in Google. They are held on the fourth Monday of each month.
 
 ## Schedule
 
