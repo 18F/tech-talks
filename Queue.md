@@ -34,7 +34,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 # Archive
 **6/27/16**
-* CSS Modular Architecture - Marco S. (30 mins) [video](https://www.youtube.com/watch?v=vO3KtQYrEUA)
+* CSS Architecture - Marco S. (30 mins) [video](https://www.youtube.com/watch?v=vO3KtQYrEUA)
 * Elixir: the best of Python and Ruby - Robb Shecter (30 mins) [video](https://www.youtube.com/watch?v=-zc_atejUzQ)
 
 **5/23/16**
