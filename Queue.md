@@ -7,11 +7,6 @@ Select a time slot below, add your talk and commit right to master. That's all! 
 See the 18F-Developers calendar in Google. They are held on the fourth Monday of each month.
 
 ## Schedule
-
-**Scheduled 6/27/16**
-* CSS Modular Architecture - Marco S. (30 mins)
-* Elixir: the best of Python and Ruby - Robb Shecter (30 mins)
-
 **Scheduled 7/25/16**
 * Incident reporting (real title to come) - Jacob K-M and Jeremia (30 mins)
 * Compliance work (real title to come) - Aidan (30 mins)
@@ -38,6 +33,10 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 
 # Archive
+**6/27/16**
+* CSS Modular Architecture - Marco S. (30 mins) [video](https://www.youtube.com/watch?v=vO3KtQYrEUA)
+* Elixir: the best of Python and Ruby - Robb Shecter (30 mins) [video](https://www.youtube.com/watch?v=-zc_atejUzQ)
+
 **5/23/16**
 * Front end testing at 18F - Jeremia Kimelman, Lenny Bogdonoff, Marco Segreto (30 mins) [video](https://www.youtube.com/watch?v=8_y3D5zS6DA)
 
