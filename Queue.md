@@ -16,6 +16,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 * Make CSS Great Again (with Atomic CSS) - Brendan (20 mins)
 
 **Scheduled 9/26/16**
+* Engineering career talk - Holly (30 mins)
 * ? (? mins)
 
 **Scheduled 10/24/16**
