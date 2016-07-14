@@ -17,7 +17,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 **Scheduled 9/26/16**
 * Engineering career talk - Holly (30 mins)
-* ? (? mins)
+* ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
 
 **Scheduled 10/24/16**
 * ? (? mins)
