@@ -20,6 +20,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 * ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
 
 **Scheduled 10/24/16**
+* Level up your programming skills with Exercism - Robb (30 mins)
 * ? (? mins)
 
 **Scheduled 11/28/16**
