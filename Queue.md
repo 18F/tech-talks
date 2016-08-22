@@ -19,7 +19,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 * Make CSS Great Again (with Atomic CSS) - Brendan (20 mins)
 
 **Scheduled 11/28/16**
-* ? (? mins)
+* Data munging 2.0 w/ dask - Eric Schles (30 mins)
 
 **Scheduled 12/19/16**
 * ? (? mins)
