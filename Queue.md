@@ -7,10 +7,6 @@ Select a time slot below, add your talk and commit right to master. That's all! 
 See the 18F-Developers calendar in Google. They are held on the fourth Monday of each month.
 
 ## Schedule
-**Scheduled 7/25/16**
-* Incident reporting (real title to come) - Jacob K-M and Jeremia (30 mins)
-* Compliance work (real title to come) - Aidan (30 mins)
-
 **Scheduled 8/22/16**
 * Data munging with Pandas - Becky (30 min)
 
@@ -34,6 +30,10 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 
 # Archive
+**7/25/16**
+* Incident reporting - Jacob K-M and Jeremia (30 mins) [video](https://www.youtube.com/watch?v=OVIBTKS-5wY&list=PLd9b-GuOJ3nG5zDAg7exOHusZKVVrkhjO&index=2)
+* Everything I think I understand about IT compliance - Aidan (30 mins) [video](https://www.youtube.com/watch?v=-Nc4GXPxpQg&list=PLd9b-GuOJ3nG5zDAg7exOHusZKVVrkhjO&index=1)
+
 **6/27/16**
 * CSS Architecture - Marco S. (30 mins) [video](https://www.youtube.com/watch?v=vO3KtQYrEUA)
 * Elixir: the best of Python and Ruby - Robb Shecter (30 mins) [video](https://www.youtube.com/watch?v=-zc_atejUzQ)
