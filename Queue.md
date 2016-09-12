@@ -7,9 +7,6 @@ Select a time slot below, add your talk and commit right to master. That's all! 
 See the 18F-Developers calendar in Google. They are held on the fourth Monday of each month.
 
 ## Schedule
-**Scheduled 8/22/16**
-* Data munging with Pandas - Becky (30 min)
-
 **Scheduled 9/26/16**
 * Engineering career talk - Holly (30 mins)
 * ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
@@ -30,6 +27,9 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 
 # Archive
+**8/22/16**
+* Data munging with Pandas - Becky (30 min) [video](https://www.youtube.com/watch?v=gAWmTtqx-v8&feature=youtu.be)
+
 **7/25/16**
 * Incident reporting - Jacob K-M and Jeremia (30 mins) [video](https://www.youtube.com/watch?v=OVIBTKS-5wY&list=PLd9b-GuOJ3nG5zDAg7exOHusZKVVrkhjO&index=2)
 * Everything I think I understand about IT compliance - Aidan (30 mins) [video](https://www.youtube.com/watch?v=-Nc4GXPxpQg&list=PLd9b-GuOJ3nG5zDAg7exOHusZKVVrkhjO&index=1)
