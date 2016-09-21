@@ -9,7 +9,6 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 ## Schedule
 **Scheduled 9/26/16**
 * Engineering career talk - Holly (30 mins)
-* ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
 
 **Scheduled 10/24/16**
 * Level up your programming skills with Exercism - Robb (30 mins)
@@ -17,6 +16,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 **Scheduled 11/28/16**
 * Data munging 2.0 w/ dask - Eric Schles (30 mins)
+* ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
 
 **Scheduled 12/19/16**
 * ? (? mins)
