@@ -7,8 +7,7 @@ Select a time slot below, add your talk and commit right to master. That's all! 
 See the 18F-Developers calendar in Google. They are held on the fourth Monday of each month.
 
 ## Schedule
-**Scheduled 9/26/16**
-* Engineering career talk - Holly (30 mins)
+**9/26/16 is cancelled**
 
 **Scheduled 10/24/16**
 * Level up your programming skills with Exercism - Robb (30 mins)
@@ -19,10 +18,11 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 * ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
 
 **Scheduled 12/19/16**
-* ? (? mins)
+* Engineering career talk - Holly (30 mins)
+* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins)
+
 
 **Unscheduled** Please don't add talks here. Pick a time slot above instead.
-* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins) -- November or later
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
 
 
