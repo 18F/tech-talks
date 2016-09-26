@@ -21,6 +21,11 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 * Engineering career talk - Holly (30 mins)
 * Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins)
 
+**Scheduled 1/23/17**
+* ? (? mins)
+
+**Scheduled 2/27/17**
+* ? (? mins)
 
 **Unscheduled** Please don't add talks here. Pick a time slot above instead.
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
