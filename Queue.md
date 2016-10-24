@@ -7,8 +7,6 @@ Select a time slot below, add your talk and commit right to master. That's all! 
 See the 18F-Developers calendar in Google. They are held on the fourth Monday of each month.
 
 ## Schedule
-**9/26/16 is cancelled**
-
 **Scheduled 10/24/16**
 * Level up your programming skills with Exercism - Robb (30 mins)
 * Make CSS Great Again (with Atomic CSS) - Brendan (20 mins)
