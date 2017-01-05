@@ -7,17 +7,6 @@ Select a time slot below, add your talk and commit right to master. That's all! 
 See the 18F-Developers calendar in Google. They are held on the fourth Monday of each month.
 
 ## Schedule
-**Scheduled 10/24/16**
-* Level up your programming skills with Exercism - Robb (30 mins)
-* Make CSS Great Again (with Atomic CSS) - Brendan (20 mins)
-
-**Scheduled 11/28/16**
-* Data munging 2.0 w/ dask - Eric Schles (30 mins)
-* ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
-
-**Scheduled 12/19/16**
-* Engineering career talk - Holly (30 mins)
-* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins)
 
 **Scheduled 1/23/17**
 * ? (? mins)
@@ -30,6 +19,21 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 
 # Archive
+## Videos coming soon
+**Scheduled 10/24/16**
+* Level up your programming skills with Exercism - Robb (30 mins)
+* Make CSS Great Again (with Atomic CSS) - Brendan (20 mins)
+
+**Scheduled 11/28/16**
+* Data munging 2.0 w/ dask - Eric Schles (30 mins)
+* ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
+
+**Scheduled 12/19/16**
+* Engineering career talk - Holly (30 mins)
+* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins)
+
+--------
+
 **8/22/16**
 * Data munging with Pandas - Becky (30 min) [video](https://www.youtube.com/watch?v=gAWmTtqx-v8&feature=youtu.be)
 
