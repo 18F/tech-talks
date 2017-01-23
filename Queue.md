@@ -9,7 +9,8 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 ## Schedule
 
 **Scheduled 1/23/17**
-* ? (? mins)
+* Docker - Atul (30 mins)
+* Qualitative Research - Cyd (30 mins)
 
 **Scheduled 2/27/17**
 * ? (? mins)
