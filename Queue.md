@@ -29,11 +29,11 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 * Data munging 2.0 w/ dask - Eric Schles (30 mins)
 * ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
 
-**Scheduled 12/19/16**
-* Engineering career talk - Holly (30 mins)
-* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins)
-
 --------
+
+**12/19/16**
+* Engineering career talk - Holly (30 mins) [video](https://youtu.be/QG-AtXszUS0)
+* Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins) [video](https://youtu.be/LKKAHFLO5dM)
 
 **8/22/16**
 * Data munging with Pandas - Becky (30 min) [video](https://www.youtube.com/watch?v=gAWmTtqx-v8&feature=youtu.be)
