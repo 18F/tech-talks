@@ -13,6 +13,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 * Qualitative Research - Cyd (30 mins)
 
 **Scheduled 2/27/17**
+* Encryption in login.gov - @pkarman (30 mins)
 * ? (? mins)
 
 **Unscheduled** Please don't add talks here. Pick a time slot above instead.
