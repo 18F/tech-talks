@@ -8,13 +8,9 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 ## Schedule
 
-**Scheduled 1/23/17**
-* Tinkering with Docker - Atul (30 mins)
-* Qualitative Research - Cyd (30 mins)
-
 **Scheduled 2/27/17**
 * Encryption in login.gov - @pkarman (30 mins)
-* ? (? mins)
+* Level up your programming skills with Exercism - Robb (30 mins)
 
 **Unscheduled** Please don't add talks here. Pick a time slot above instead.
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
@@ -22,6 +18,11 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 # Archive
 ## Videos coming soon
+
+**Scheduled 1/23/17**
+* Tinkering with Docker - Atul (30 mins)
+* Qualitative Research - Cyd (30 mins)
+
 **Scheduled 11/28/16**
 * Data munging 2.0 w/ dask - Eric Schles (30 mins)
 * ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
@@ -33,7 +34,6 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 * Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins) [video](https://youtu.be/LKKAHFLO5dM)
 
 ###10/24/16
-* Level up your programming skills with Exercism - Robb (30 mins)
 * Make CSS Great Again (with Atomic CSS) - Brendan (20 mins) [video](https://www.youtube.com/watch?v=fMyhHgr_3PY&feature=youtu.be)
 
 ###8/22/16
