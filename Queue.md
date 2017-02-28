@@ -8,9 +8,18 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 ## Schedule
 
-**Scheduled 2/27/17**
-* Encryption in login.gov - @pkarman (30 mins)
-* Level up your programming skills with Exercism - Robb (30 mins)
+**3/27/17**
+- ?? (? mins)
+
+**4/24/17**
+- ?? (? mins)
+
+**5/22/17**
+- ?? (? mins)
+
+**6/26/17**
+- ?? (? mins)
+
 
 **Unscheduled** Please don't add talks here. Pick a time slot above instead.
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
@@ -19,11 +28,15 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 # Archive
 ## Videos coming soon
 
-**Scheduled 1/23/17**
+**2/27/17**
+* Encryption in login.gov - @pkarman (30 mins)
+* Level up your programming skills with Exercism - Robb (30 mins)
+
+**1/23/17**
 * Tinkering with Docker - Atul (30 mins)
 * Qualitative Research - Cyd (30 mins)
 
-**Scheduled 11/28/16**
+**11/28/16**
 * Data munging 2.0 w/ dask - Eric Schles (30 mins)
 * ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
 
