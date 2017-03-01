@@ -1,7 +1,7 @@
 # 18F Monthly Tech Talks
 
 ## Submitting a talk
-Select a time slot below, add your talk and commit right to master. That's all! Anyone at 18F is welcome to submit a talk and attend. 
+Select a time slot below, add your talk and commit right to master. That's all! Anyone at 18F is welcome to submit a talk and attend.
 
 ## How to attend
 See the 18F-Developers calendar in Google. They are held on the fourth Monday of each month.
@@ -18,7 +18,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 - ?? (? mins)
 
 **6/26/17**
-- ?? (? mins)
+- Implementing analytics in a Rails app and how it improved the code design. - Moncef (30 mins)
 
 
 **Unscheduled** Please don't add talks here. Pick a time slot above instead.
@@ -64,7 +64,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 * Front end testing at 18F - Jeremia Kimelman, Lenny Bogdonoff, Marco Segreto (30 mins) [video](https://www.youtube.com/watch?v=8_y3D5zS6DA)
 
 ###4/25/16
-* [Criminal Justice data collection](https://docs.google.com/a/gsa.gov/presentation/d/1qyftJiZIDYxLH9cI4LZywEk4CknzQd36TJes9WiKezA/edit?usp=sharing) - Ryan Sibley (30 mins) 
+* [Criminal Justice data collection](https://docs.google.com/a/gsa.gov/presentation/d/1qyftJiZIDYxLH9cI4LZywEk4CknzQd36TJes9WiKezA/edit?usp=sharing) - Ryan Sibley (30 mins)
 * [Technical Debt](https://docs.google.com/presentation/d/14CwxeL_qvMWwB7rZe_WHVfHXQNpwFzLixBVbdb9EBIw/edit#slide=id.p) - Kane Baccigalupi (30 mins) [video](https://www.youtube.com/watch?v=9TON4bkTJhs&feature=youtu.be)
 
 ###2/22/16
