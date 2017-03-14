@@ -9,7 +9,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 ## Schedule
 
 **3/27/17**
-- Encryption on the web: tradeoffs and politics (60 mins)
+- Encryption on the web: tradeoffs and politics - Eric Mill (60 mins)
 
 **4/24/17**
 - ?? (? mins)
