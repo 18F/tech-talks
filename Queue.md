@@ -8,15 +8,6 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 ## Schedule
 
-**3/27/17**
-- Encryption on the web: tradeoffs and politics - Eric Mill (60 mins)
-
-**4/24/17**
-- ?? (? mins)
-
-**5/22/17**
-- ?? (? mins)
-
 **6/26/17**
 - Implementing analytics in a Rails app and how it improved the code design. - Moncef (30 mins)
 
@@ -27,6 +18,11 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 # Archive
 ## Videos coming soon
+**5/22/17**
+- Debug Better - Yoz (50 mins)
+
+**3/27/17**
+- Encryption on the web: tradeoffs and politics - Eric Mill (60 mins)
 
 **2/27/17**
 * Encryption in login.gov - @pkarman (30 mins)
