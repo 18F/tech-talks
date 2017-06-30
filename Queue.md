@@ -17,6 +17,10 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 **08/28/17**
 - Building a time-keeping tool in Rust - Roger (45 mins)
+- Detecting Tampered Data - DKP (30 mins)
+
+**09/25/17**
+- Finding Bugs Like A Hacker - DKP (30 mins)
 
 **Unscheduled** Please don't add talks here. Pick a time slot above instead.
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
