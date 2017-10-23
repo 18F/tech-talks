@@ -8,17 +8,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 ## Schedule
 
-**6/26/17**
-- Implementing analytics in a Rails app and how it improved the code design. - Moncef (30 mins)
-
-**7/24/17** 
-- Tools for remote collaboration - Jeremia (30 mins)
-
-**08/28/17**
-- Building a time-keeping tool in Rust - Roger (45 mins)
-- Detecting Tampered Data - DKP (30 mins)
-
-**09/25/17**
+**10/30/17**
 - Finding Bugs Like A Hacker - DKP (30 mins)
 
 **Unscheduled** Please don't add talks here. Pick a time slot above instead.
@@ -27,6 +17,16 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 # Archive
 ## Videos coming soon
+**08/28/17**
+- Building a time-keeping tool in Rust - Roger (45 mins)
+- Detecting Tampered Data - DKP (30 mins)
+
+**7/24/17** 
+- Tools for remote collaboration - Jeremia (30 mins)
+
+**6/26/17**
+- Implementing analytics in a Rails app and how it improved the code design. - Moncef (30 mins)
+
 **5/22/17**
 - Debug Better - Yoz (50 mins)
 
