@@ -108,4 +108,4 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 ### 5/15/2015
 * The DATA Act for regular people: why it’s important and how 18F is helping - Becky
-* [Advanced Git](git-flag-p) - Aidan and Alison
+* Advanced Git - Aidan ([part 1](https://speakerdeck.com/aidanfeldman/git-graphically)) and Alison ([part 2](git-flag-p))
