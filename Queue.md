@@ -18,7 +18,7 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 # Archive
 ## Videos coming soon
 **08/28/17**
-- Building a time-keeping tool in Rust - Roger (45 mins)
+- Building a time-keeping tool in Rust - Roger (45 mins) ([Slides](https://gist.github.com/rogeruiz/9db97307216a6f3ef31b7fc1e9ba1602))
 - Detecting Tampered Data - DKP (30 mins)
 
 **7/24/17** 
