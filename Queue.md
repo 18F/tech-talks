@@ -8,6 +8,9 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 ## Schedule
 
+**02/26/18**
+- #g-devops Presents: Workflows & Separation of Responsibilities for Circle CI - Roger (45 mins)
+
 **10/30/17**
 - Finding Bugs Like A Hacker - DKP (30 mins)
 
