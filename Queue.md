@@ -8,6 +8,9 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 
 ## Schedule
 
+**06/25/18**
+- Authentication with PIV/CAC card - Jim Smith | USDS (45 mins)
+
 **02/26/18**
 - #g-devops Presents: Workflows & Separation of Responsibilities for Circle CI - Roger (45 mins)
 
