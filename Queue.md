@@ -1,12 +1,15 @@
 # 18F Monthly Tech Talks
 
 ## Submitting a talk
-Select a time slot below, add your talk and commit right to master. That's all! Anyone at 18F is welcome to submit a talk and attend.
+Submit an issue in this repo, or talk to us on Slack.
 
 ## How to attend
 See the 18F-Developers calendar in Google. They are held on the fourth Monday of each month.
 
 ## Schedule
+
+**13 Aug 2018**
+- Logging on login.gov - Justin Grevich (45 mins)
 
 **06/25/18**
 - Authentication with PIV/CAC card - Jim Smith | USDS (45 mins)
