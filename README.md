@@ -8,11 +8,11 @@ This repository is a place to store the related materials, so they:
 
 ## How to use
 
-If you're an 18F staffer and would like to attend the talks, ask in #dev to be added to the invite.
+If you're an 18F staffer and would like to attend the talks, ask in #dev to be added to the invite (or find it on the 18F Events calendar).
 
-If you're an 18F staffer who is giving a tech talk, please create a talk-specific folder and put your materials there. Whatever you have--code samples, links, slides, video--we'll take it!
+If you're an 18F staffer who is giving a tech talk, please create a talk-specific folder and put your materials there. Whatever you have—code samples, links, slides, video—we'll take it!
 
-If you're an 18F staffer who would like to give a talk, [add yourself to the queue](https://github.com/18F/tech-talks/edit/master/Queue.md).
+If you're an 18F staffer who would like to give a talk, please contact us in #tech-talks on Slack or add an issue: https://github.com/18F/tech-talks/issues
 
 If you're not an 18F staffer but want to see what people are talking about, poke around. These are quick, introductory talks; thus there may not be extensive documentation, but there might be something to pique your interest.
 

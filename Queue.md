@@ -1,13 +1,19 @@
-# 18F Monthly Tech Talks
+# 18F Engineering Chapter Tech Talks
 
 ## Submitting a talk
-Submit an issue in this repo, or talk to us on Slack.
+Submit an issue in this repo, or talk to us on Slack (#tech-talks).
 
 ## How to attend
-See the 18F-Developers calendar in Google. They are held on the fourth Monday of each month.
+See the 18F Events calendar. Talks are on Mondays, generally happen twice per month, and generally alternate between a longer talk (30–45 minutes) and a set of 2–4 shorter (10–15 minutes) talks.
 
 ## Schedule
+See https://github.com/18F/tech-talks/issues for upcoming talks.
 
+# Archive
+
+This archive is incomplete, and we need a definitive location for past talk materials.
+
+## Videos coming soon
 **13 Aug 2018**
 - Logging on login.gov - Justin Grevich (45 mins)
 
@@ -23,9 +29,6 @@ See the 18F-Developers calendar in Google. They are held on the fourth Monday of
 **Unscheduled** Please don't add talks here. Pick a time slot above instead.
 * Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
 
-
-# Archive
-## Videos coming soon
 **08/28/17**
 - Building a time-keeping tool in Rust - Roger (45 mins) ([Slides](https://gist.github.com/rogeruiz/9db97307216a6f3ef31b7fc1e9ba1602))
 - Detecting Tampered Data - DKP (30 mins)
