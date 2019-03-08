@@ -2,6 +2,8 @@
 
 18F has a running series of tech talks: short, internal talks where we share our favorite technology and project information with one another.
 
+Currently we have longer talks on the first Wednesday of every month, and a collection of shorter talks on the third Wednesday.
+
 This repository is a place to store the related materials, so they:
 * aren't lost to the sands of time or Slack, and
 * can be useful to others.
@@ -20,7 +22,7 @@ If you're not an 18F staffer but want to see what people are talking about, poke
 
 Q. As a presenter, how do I tock this time?
 
-A. Training / Prof Dev - Non Billable
+A. `968 - 18F / Non-Billable`.
 
 ## Public domain
 

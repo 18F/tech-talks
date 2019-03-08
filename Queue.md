@@ -4,7 +4,7 @@
 Submit an issue in this repo, or talk to us on Slack (#tech-talks).
 
 ## How to attend
-See the 18F Events calendar. Talks are on Mondays, generally happen twice per month, and generally alternate between a longer talk (30–45 minutes) and a set of 2–4 shorter (10–15 minutes) talks.
+See the 18F Events calendar. Talks are on the first and third Wednesdays each month, and generally alternate between a longer talk (30–45 minutes) and a set of 2–4 shorter (10–15 minutes) talks.
 
 ## Schedule
 See https://github.com/18F/tech-talks/issues for upcoming talks.
