@@ -18,5 +18,5 @@ A short description of your talk goes here. What kinds of things will we learn f
 - [ ] Update the 18F Events calendar entry for this talk to add the talk details.
 - [ ] Ask the parties responsible for the Engineering Chapter newletter for that week to add details about the talk(s) to the newsletter.
 - [ ] Announce the talk(s) in #dev on Slack in the morning, and follow up with a reminder just before they're about to begin.
-- [ ] Enable phone-in option for those using FedRelay.
+- [ ] Enable Relay Conference Captioning (RCC) via [FedRelay](https://www.sprintrelay.com/federal).
 - [ ] Upload video.
