@@ -3,7 +3,7 @@ name: Submit a talk
 about: Submit a talk that will present
 title: 'Tech Talk: [Your Title Here]'
 labels: 'tech talk'
-assignees: '@geekygirlsarah'
+assignees: '@geekygirlsarah,@julialeague'
 
 ---
 
@@ -26,7 +26,7 @@ Thanks for offering to give a talk at a Tech Talks meeting! We just need a bit o
 ## How long is your talk?
 
 - [ ] Lightning talk (5-10 minutes)
-- [ ] Short tech talk (25 minutes)
+- [ ] Short tech talk (20-25 minutes)
 - [ ] Long tech talk (40-50 minutes)
 
 ## Do you have any preferred dates for it?
@@ -38,5 +38,6 @@ Thanks for offering to give a talk at a Tech Talks meeting! We just need a bit o
 - [ ] Update the TTS Guilds calendar entry for this talk to add the talk details.
 - [ ] Enable Relay Conference Captioning (RCC) via [FedRelay](https://www.sprintrelay.com/federal).
 - [ ] Ask the parties responsible for the Engineering Chapter newletter for that week to add details about the talk(s) to the newsletter.
-- [ ] Announce the talk(s) in #dev and #tech-talks on Slack in the morning, and follow up with a reminder just before they're about to begin.
+- [ ] Announce the talk(s) in #tech-talks, #dev, #18f, #18f-dev-accounce when date is set
+- [ ] Announce the talk(s) in same channels on Slack in the morning, and follow up with a reminder just before they're about to begin.
 - [ ] Upload video and transcript to [Google Drive](https://drive.google.com/drive/folders/1HEc6rMvFvbeFb08KY5ohO3IXnygPChVk).
