@@ -1,67 +1,58 @@
-# 18F Engineering Chapter Tech Talks
+# Tech Talk Archive
 
 ## Submitting a talk
-Submit an issue in this repo, or talk to us on Slack (#tech-talks).
+Have a talk idea? Submit an issue in this repo, or talk to us on Slack (#tech-talks).
 
 ## How to attend
-See the 18F Events calendar. Talks are on the first and third Wednesdays each month, and generally alternate between a longer talk (30–45 minutes) and a set of 2–4 shorter (10–15 minutes) talks.
-
-## Schedule
-See https://github.com/18F/tech-talks/issues for upcoming talks.
+See the "TTS Guild Meetings & Office Hours" calendar. Talks are on the first and third Wednesdays each month, and generally alternate between a longer talk (30–45 minutes) and a set of 2–4 shorter (10–15 minutes) talks.
 
 # Archive
 
 This archive is incomplete, and we need a definitive location for past talk materials.
 
-## Videos coming soon
-**13 Aug 2018**
+### 8/13/18
 - Logging on login.gov - Justin Grevich (45 mins)
 
-**06/25/18**
+### 06/25/18
 - Authentication with PIV/CAC card - Jim Smith | USDS (45 mins)
 
-**02/26/18**
+### 2/26/18
 - #g-devops Presents: Workflows & Separation of Responsibilities for Circle CI - Roger (45 mins)
 
-**10/30/17**
+### 10/30/17
 - Finding Bugs Like A Hacker - DKP (30 mins)
 
-**Unscheduled** Please don't add talks here. Pick a time slot above instead.
-* Making Meetings Not Suck (Your Time Away) - Fureigh (30 mins)
-
-**08/28/17**
+### 8/28/17
 - Building a time-keeping tool in Rust - Roger (45 mins) ([Slides](https://gist.github.com/rogeruiz/9db97307216a6f3ef31b7fc1e9ba1602))
 - Detecting Tampered Data - DKP (30 mins)
 
-**7/24/17**
+### 7/24/17
 - Tools for remote collaboration - Jeremia (30 mins)
 
-**6/26/17**
+### 6/26/17
 - Implementing analytics in a Rails app and how it improved the code design. - Moncef (30 mins)
 
-**5/22/17**
+### 5/22/17
 - Debug Better - Yoz (50 mins)
 
-**3/27/17**
+### 3/27/17
 - Encryption on the web: tradeoffs and politics - Eric Mill (60 mins)
 
-**2/27/17**
+### 2/27/17
 * Encryption in login.gov - @pkarman (30 mins)
 * Level up your programming skills with Exercism - Robb (30 mins)
 
-**1/23/17**
+### 1/23/17
 * Tinkering with Docker - Atul (30 mins)
 * Qualitative Research - Cyd (30 mins)
-
-**11/28/16**
-* Data munging 2.0 w/ dask - Eric Schles (30 mins)
-* ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
-
---------
 
 ### 12/19/16
 * Engineering career talk - Holly (30 mins) [video](https://youtu.be/QG-AtXszUS0)
 * Algorithms and Algorithm Analysis/Running Time - Amanda Robinson (30 mins) [video](https://youtu.be/LKKAHFLO5dM)
+
+### 11/28/16
+* Data munging 2.0 w/ dask - Eric Schles (30 mins)
+* ES6 for folks who love ES5 - Jeremia & Shawn (30 mins)
 
 ### 10/24/16
 * Make CSS Great Again (with Atomic CSS) - Brendan (20 mins) [video](https://www.youtube.com/watch?v=fMyhHgr_3PY&feature=youtu.be)

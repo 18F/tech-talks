@@ -1,20 +1,33 @@
-# 18F Tech Talks
+# Tech Talks
 
-18F has a running series of tech talks: short, internal talks where we share our favorite technology and project information with one another.
+In 2015, 18F started running a series of tech talks: short, internal talks where we share our favorite technology and project information with one another.
 
-Currently we have longer talks on the first Wednesday of every month, and a collection of shorter talks on the third Wednesday.
+After a break, Tech Talks are returning!
 
 This repository is a place to store the related materials, so they:
 * aren't lost to the sands of time or Slack, and
 * can be useful to others.
 
-## How to use
+## Upcoming Tech Talks
 
-If you're an 18F staffer and would like to attend the talks, ask in #dev to be added to the invite (or find it on the 18F Events calendar).
+We're still planning out the first couple of talks. Stay tuned!
 
-If you're an 18F staffer who is giving a tech talk, please create a talk-specific folder and put your materials there. Whatever you have—code samples, links, slides, video—we'll take it!
+For past talks, check out our [Archive](archive.md).
 
-If you're an 18F staffer who would like to give a talk, please contact us in #tech-talks on Slack or add an issue: https://github.com/18F/tech-talks/issues
+
+## How to attend
+
+If you're an 18F or TTS staffer and would like to attend the talks, ask in #tech-talks or #dev on Slack to be added to the invite (or find it on the "TTS Guild Meetings & Office Hours" calendar).
+
+## How to suggest a talk
+
+If you're a staff member who would like to give a talk, please contact us in #tech-talks on Slack or add an issue: https://github.com/18F/tech-talks/issues . You can present either a shorter lightning talk (5-10 minutes) to full length talk (30-40 minutes).
+
+What can you talk about? Anything technical! This can be related to work at 18F/TTS or technical things you have done outside of work. You don't have to be an engineer either! If you have a technical talk idea, let us know!
+
+## How to use this repo
+
+If you're a staff member who is giving a tech talk, please create a talk-specific folder and put your materials there. Whatever you have—code samples, links, slides, video—we'll take it!
 
 If you're not an 18F staffer but want to see what people are talking about, poke around. These are quick, introductory talks; thus there may not be extensive documentation, but there might be something to pique your interest.
 
