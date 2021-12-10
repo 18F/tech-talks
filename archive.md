@@ -4,7 +4,7 @@
 Have a talk idea? Submit an issue in this repo, or talk to us on Slack (#tech-talks).
 
 ## How to attend
-See the "TTS Guild Meetings & Office Hours" calendar. Talks are on the first and third Wednesdays each month, and generally alternate between a longer talk (30–45 minutes) and a set of 2–4 shorter (10–15 minutes) talks.
+See the "TTS Guild Meetings & Office Hours" calendar. We are aiming to have talks on Tuesdays once a month. We'll choose the specific date(s) after the holidays.
 
 # Archive
 
