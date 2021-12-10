@@ -36,7 +36,7 @@ What can you talk about? Anything technical! This can be related to work at 18F/
 
 If you're a staff member who is giving a tech talk, please create a talk-specific folder and put your materials there. Whatever you have—code samples, links, slides, video—we'll take it!
 
-If you're not an 18F staffer but want to see what people are talking about, poke around. These are quick, introductory talks; thus there may not be extensive documentation, but there might be something to pique your interest.
+If you're not a TTS staffer but want to see what people are talking about, poke around. These are quick, introductory talks; thus there may not be extensive documentation, but there might be something to pique your interest.
 
 ## FAQ
 
