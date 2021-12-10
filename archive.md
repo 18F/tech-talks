@@ -10,6 +10,12 @@ See the "TTS Guild Meetings & Office Hours" calendar. Talks are on the first and
 
 This archive is incomplete, and we need a definitive location for past talk materials.
 
+### 11/23/21
+
+- A low resolution look at image servers (Jessica Dussault)
+- What is Charlie? (Greg Walker)
+- Advent of Code 2021 (Logan McDonald)
+
 ### 8/13/18
 - Logging on login.gov - Justin Grevich (45 mins)
 
