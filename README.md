@@ -10,11 +10,14 @@ This repository is a place to store the related materials, so they:
 
 ## Upcoming Tech Talks
 
-**November 23, 2021**
+**December 14, 2021**
 
-- A low resolution look at image servers (Jessica Dussault, @jduss4)
-- What is Charlie? (Greg Walker, @mgwalker)
-- Advent of Code 2021 (Logan McDonald, @loganmeetsworld)
+Building & Analyzing Network Data with Aspen (Matt Cloyd)
+
+>We don’t see graph databases often at 18F, but networks and graph data are useful in many domains, including consulting.
+>
+>In this tech talk, we’ll start with graph data basics. Then we’ll use Aspen—a Markdown-like language for graphs—to build and analyze a social graph based on a real-world consulting project.
+
 
 For past talks, check out our [Archive](archive.md).
 
