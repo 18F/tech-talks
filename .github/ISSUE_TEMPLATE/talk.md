@@ -1,6 +1,6 @@
 ---
 name: Submit a talk
-about: Submit a talk that will present
+about: Submit a talk idea that you will present
 title: 'Tech Talk: [Your Title Here]'
 labels: 'tech talk'
 assignees: '@geekygirlsarah,@julialeague'
