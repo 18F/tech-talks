@@ -31,7 +31,7 @@ Thanks for offering to give a talk at a Tech Talks meeting! We just need a bit o
 
 ## Do you have any preferred dates for it?
 
-<!-- Pick a 1st/3rd Wednesday of an upcoming month, or say no preference >
+<!-- Pick a 1st/3rd Tuesday of an upcoming month, or say no preference >
 
 ## Todo for the MC:
 
