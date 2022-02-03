@@ -10,6 +10,14 @@ See the "TTS Guild Meetings & Office Hours" calendar. We are aiming to have talk
 
 This archive is incomplete, and we need a definitive location for past talk materials.
 
+### 12/14/21
+
+Building & Analyzing Network Data with Aspen (Matt Cloyd)
+
+>We don’t see graph databases often at 18F, but networks and graph data are useful in many domains, including consulting.
+>
+>In this tech talk, we’ll start with graph data basics. Then we’ll use Aspen—a Markdown-like language for graphs—to build and analyze a social graph based on a real-world consulting project.
+
 ### 11/23/21
 
 - A low resolution look at image servers (Jessica Dussault)
