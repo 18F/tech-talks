@@ -28,7 +28,7 @@ If you're a staff member who would like to give a talk, please contact us in #te
 
 You can present shorter lightning talks (5-10 minutes) which we'll combine with other short talks for a Tech Talks Lite session, or longer talks in which you'd be the featured speaker of the month (30-40 minutes).
 
-What can you talk about? Anything technical! This can be related to work at 18F/TTS or a broader technical topic (side projects, conference summaries, Computer Science concepts - the list goes on!). You don't have to be a "coder" either! If you have a technical talk idea, let us know!
+What can you talk about? Anything technical! This can be related to work at 18F/TTS, or it could be about a broader technical topic (side projects, conference recaps, Computer Science concepts - the list goes on!). You don't have to be a "coder" either! If you have a technical talk idea, let us know!
 
 ## How to use this repo
 
