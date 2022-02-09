@@ -1,8 +1,6 @@
 # Tech Talks
 
-In 2015, 18F started running a series of tech talks: short, internal talks where we share our favorite technology and project information with one another.
-
-After a break, Tech Talks are returning!
+Since 2015, 18F has hosted a series of tech talks - short, internal talks where we share our favorite technology and project information with one another.
 
 This repository is a place to store the related materials, so they:
 * aren't lost to the sands of time or Slack, and
@@ -10,17 +8,15 @@ This repository is a place to store the related materials, so they:
 
 ## Upcoming Tech Talks
 
-**December 14, 2021**
+**February 15, 2022**
 
-Building & Analyzing Network Data with Aspen (Matt Cloyd)
+*A Primer on Functional Programming* (Sarah Withee)
 
->We don’t see graph databases often at 18F, but networks and graph data are useful in many domains, including consulting.
->
->In this tech talk, we’ll start with graph data basics. Then we’ll use Aspen—a Markdown-like language for graphs—to build and analyze a social graph based on a real-world consulting project.
+>Functional programming languages are gaining in popularity. If you’ve worked in object-oriented languages, you might be baffled at how they work. Maybe hearing the word “recursion” makes you want to scream. Or maybe you’ve just heard the hype and want to know what the hype is about.
 
+>In this talk, we will briefly explain what functional languages are, and go into some examples of tasks that these languages are suited for. We will look at the major languages in use today and see how they work. We’ll see some of the things they have in common, and the many things that make them distinctive. Finally, we’ll offer some suggestions on how to dive into learning these and using them on your own projects.
 
 For past talks, check out our [Archive](archive.md).
-
 
 ## How to attend
 
@@ -28,9 +24,11 @@ If you're an 18F or TTS staffer and would like to attend the talks, ask in #tech
 
 ## How to suggest a talk
 
-If you're a staff member who would like to give a talk, please contact us in #tech-talks on Slack or add an issue: https://github.com/18F/tech-talks/issues . You can present either a shorter lightning talk (5-10 minutes) to full length talk (30-40 minutes).
+If you're a staff member who would like to give a talk, please contact us in #tech-talks on Slack or add an issue: https://github.com/18F/tech-talks/issues
 
-What can you talk about? Anything technical! This can be related to work at 18F/TTS or technical things you have done outside of work. You don't have to be an engineer either! If you have a technical talk idea, let us know!
+You can present shorter lightning talks (5-10 minutes) which we'll combine with other short talks for a Tech Talks Lite session, or longer talks in which you'd be the featured speaker of the month (30-40 minutes).
+
+What can you talk about? Anything technical! This can be related to work at 18F/TTS, or it could be about a broader technical topic (side projects, conference recaps, Computer Science concepts - the list goes on!). You don't have to be a "coder" either! If you have a technical talk idea, let us know!
 
 ## How to use this repo
 
