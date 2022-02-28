@@ -8,13 +8,13 @@ This repository is a place to store the related materials, so they:
 
 ## Upcoming Tech Talks
 
-**February 15, 2022**
+**March 1, 2022**
 
-*A Primer on Functional Programming* (Sarah Withee)
+*[Functional Programming in Python](https://github.com/18F/tech-talks/issues/63)* (Tadhg O'Higgins)
 
->Functional programming languages are gaining in popularity. If you’ve worked in object-oriented languages, you might be baffled at how they work. Maybe hearing the word “recursion” makes you want to scream. Or maybe you’ve just heard the hype and want to know what the hype is about.
+**March 15, 2022**
 
->In this talk, we will briefly explain what functional languages are, and go into some examples of tasks that these languages are suited for. We will look at the major languages in use today and see how they work. We’ll see some of the things they have in common, and the many things that make them distinctive. Finally, we’ll offer some suggestions on how to dive into learning these and using them on your own projects.
+*[Functional Programming in Ruby a.k.a. I Elm'd My Ruby and So Can You!]()* (Matt Cloyd)
 
 For past talks, check out our [Archive](archive.md).
 
