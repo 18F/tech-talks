@@ -10,6 +10,16 @@ See the "TTS Guild Meetings & Office Hours" calendar. We are aiming to have talk
 
 This archive is incomplete, and we need a definitive location for past talk materials.
 
+### 02/15/22
+
+A Primer on Functional Programming (Sarah Withee)
+[Video](https://drive.google.com/drive/folders/14PpQx2vLaC7qEZzBIlWLOAf85muHwcMa?usp=sharing) | [Slides](https://github.com/geekygirlsarah/talk-a_primer_on_functional_programming/raw/master/A%20Primer%20on%20Functional%20Programming.pdf)
+
+>Functional programming languages are gaining in popularity. If you’ve worked in object-oriented languages, you might be baffled at how they work. Maybe hearing the word “recursion” makes you want to scream. Or maybe you’ve just heard the hype and want to know what the hype is about.
+
+>In this talk, we will briefly explain what functional languages are, and go into some examples of tasks that these languages are suited for. We will look at the major languages in use today and see how they work. We’ll see some of the things they have in common, and the many things that make them distinctive. Finally, we’ll offer some suggestions on how to dive into learning these and using them on your own projects.
+
+
 ### 12/14/21
 
 Building & Analyzing Network Data with Aspen (Matt Cloyd)
