@@ -1,0 +1,357 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    """
+    Tadhg O’Higgins
+    Functional Programming in Python
+    2022-03-01
+
+
+
+
+
+
+
+
+    Pure functions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    load_ write_
+
+
+
+
+
+
+
+
+
+    Immutable data structures
+    """
+
+
+
+
+
+
+
+
+    str, tuple: immutable
+
+
+
+
+
+
+
+
+
+    list, dict: mutable
+
+
+
+
+
+
+
+
+
+    set: mutable, but there’s frozenset
+
+
+
+
+
+
+
+
+    from dataclasses import dataclass
+    @dataclass(frozen=True):
+    class …
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    map(func, items)
+
+
+
+
+
+
+
+
+
+    (func(item) for item in items)
+
+
+
+
+
+
+
+
+
+    [func(item) for item in items]
+
+
+
+
+
+
+
+
+
+    filter(func, items)
+
+
+
+
+
+
+
+
+
+    (i for i in items if func(i))
+
+
+
+
+
+
+
+
+
+    map(f2, filter(f1, items))
+
+
+
+
+
+
+
+
+
+    (f2(i) for i in items if f1(i))
+
+
+
+
+
+
+
+    """
+    splitstriplines
+    pick
+    oxford
+    """
+
+
+
+
+
+
+    """
+    Questions or modules
+    """
+
+
+
+
+
+
+"""
+ Almost every time I see a reduce() call
+ with a non-trivial function argument,
+ I need to grab pen and paper
+"""
+
+
+
+
+
+
+
+    from functools import reduce
+
+
+
+
+
+
+
+
+    reduce(
+        lambda acc, v: acc + v,
+        [1, 2, 3], 0
+    )
+
+
+
+
+
+
+
+    from functools import partial
+
+
+
+
+
+
+
+
+    def multiply(x, y): return x * y
+    double = partial(multiply, 2)
+    assert double(21) == 42
+
+
+
+
+
+
+
+
+    from operator import methodcaller
+
+
+
+
+
+
+
+
+    spipe = methodcaller("split", sep="|")
+    list(map(spipe, ["1|2", "3|4"]))
+    # [[1, 2], [3, 4]]
+
+
+
+
+
+
+
+    from itertools import chain
+    stuff = ([1, 2], [3, 4, 5])
+    flat = chain.from_iterable(stuff)
+
+
+
+
+
+
+
+    """
+    Questions or toolz
+    """
+
+
+
+
+
+
+
+    var = f1(original)
+    var2 = f2(var1)
+    var3 = f3(var2)
+
+
+
+
+
+
+    def hack(funcs, val):
+        return reduce(
+            lambda acc, func: func(acc),
+            val
+        )
+
+
+
+
+
+
+    from toolz import compose
+    allf = compose(f1, f2, f3)
+    return allf(value)
+
+
+
+
+
+
+
+    from toolz import pipe
+    result = pipe(value, f1, f2, f3)
+    return result
+
+
+
+
+
+
+    from toolz import (
+        pick,
+        pluck,
+        sliding_window,
+    )
+
+
+
+
+
+
+    """
+    toolz.readthedocs.io
+    """
+
+
+
+
+
+
+
+
+
