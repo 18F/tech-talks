@@ -4,7 +4,7 @@
 Have a talk idea? Submit an issue in this repo, or talk to us on Slack (#tech-talks).
 
 ## How to attend
-See the "TTS Guild Meetings & Office Hours" calendar. We are aiming to have talks on Tuesdays once a month. We'll choose the specific date(s) after the holidays.
+All meetings are over Google Meet and have links on our [TTS Guild Meetings & Office Hours](https://calendar.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com&ctz=America%2FNew_York)🔒 calendar. We are aiming to have talks on Tuesdays once a month.
 
 # Archive
 
