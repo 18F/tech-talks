@@ -36,7 +36,7 @@ Thanks for offering to give a talk at a Tech Talks meeting! We just need a bit o
 ## Todo for the MC:
 
 - [ ] Update the TTS Guilds calendar entry for this talk to add the talk details.
-- [ ] Enable Relay Conference Captioning (RCC) via [FedRelay](https://www.sprintrelay.com/federal).
+- [ ] Request captioning for the event date
 - [ ] Announce the talk(s) in #tech-talks, #dev, #18f, #18f-dev-announce when date is set
 - [ ] Announce the talk(s) in same channels on Slack in the morning, and follow up with a reminder just before they're about to begin.
 - [ ] Upload video and transcript to [Google Drive](https://drive.google.com/drive/folders/1HEc6rMvFvbeFb08KY5ohO3IXnygPChVk).
