@@ -1,10 +1,14 @@
 # Tech Talks
 
-Since 2015, 18F has hosted a series of tech talks - short, internal talks where we share our favorite technology and project information with one another.
+Since 2015, 18F has hosted a series of tech talks - short, internal talks where we share our favorite technology and project information with one another. After a short break in 2021, we're back and now TTS-wide!
 
 This repository is a place to store the related materials, so they:
 * aren't lost to the sands of time or Slack, and
 * can be useful to others.
+
+The current leaders are [Sarah Withee](https://github.com/geekygirlsarah) and [Julia Allen](https://github.com/julialeague).
+
+Find us on the GSA TTS Slack in the [#tech-talks](https://gsa-tts.slack.com/app_redirect?channel=tech-talks)🔒 channel.
 
 ## Upcoming Tech Talks
 
@@ -24,11 +28,11 @@ If you're an 18F or TTS staffer and would like to attend the talks, ask in #tech
 
 ## How to suggest a talk
 
-If you're a staff member who would like to give a talk, please contact us in #tech-talks on Slack or add an issue: https://github.com/18F/tech-talks/issues
+If you're a staff member who would like to give a talk, please contact us in [#tech-talks](https://gsa-tts.slack.com/app_redirect?channel=tech-talks)🔒 on Slack or add an issue: https://github.com/18F/tech-talks/issues
 
-You can present shorter lightning talks (5-10 minutes) which we'll combine with other short talks for a Tech Talks Lite session, or longer talks in which you'd be the featured speaker of the month (30-40 minutes).
+You can present shorter lightning talks (5-10 minutes) which we'll combine with other short talks for a Tech Talks Lite session, or longer talks in which you'd be the featured speaker of the month (25-30 minutes).
 
-What can you talk about? Anything technical! This can be related to work at 18F/TTS, or it could be about a broader technical topic (side projects, conference recaps, Computer Science concepts - the list goes on!). You don't have to be a "coder" either! If you have a technical talk idea, let us know!
+What can you talk about? Anything technical! This can be related to work at TTS, or it could be about a broader technical topic (side projects, conference recaps, computer science concepts - the list goes on!). You don't have to be a "coder" either! If you have a technical talk idea, let us know!
 
 ## How to use this repo
 
