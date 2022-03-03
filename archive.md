@@ -18,7 +18,7 @@ Functional Programming in Python (Tadhg O'Higgins)
 ### 02/15/2022
 
 A Primer on Functional Programming (Sarah Withee)
-[Video](https://drive.google.com/drive/folders/14PpQx2vLaC7qEZzBIlWLOAf85muHwcMa?usp=sharing) | [Slides](https://github.com/geekygirlsarah/talk-a_primer_on_functional_programming/raw/master/A%20Primer%20on%20Functional%20Programming.pdf)
+[Video](https://drive.google.com/file/d/1hrnzbePIHAYyRbPUBxqeZhSWaarajuiE/view?usp=sharing) | [Slides](https://github.com/geekygirlsarah/talk-a_primer_on_functional_programming/raw/master/A%20Primer%20on%20Functional%20Programming.pdf)
 
 >Functional programming languages are gaining in popularity. If you’ve worked in object-oriented languages, you might be baffled at how they work. Maybe hearing the word “recursion” makes you want to scream. Or maybe you’ve just heard the hype and want to know what the hype is about.
 
