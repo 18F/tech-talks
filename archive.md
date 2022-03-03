@@ -10,6 +10,11 @@ All meetings are over Google Meet and have links on our [TTS Guild Meetings & Of
 
 This archive is incomplete, and we need a definitive location for past talk materials.
 
+### 03/01/2022
+
+Functional Programming in Python (Tadhg O'Higgins)
+[Video](https://drive.google.com/file/d/1Eqy0lPFboup1tgSI9ChcTBPt9vbFnqyA/view?usp=sharing) | [Talk Materials](https://github.com/18F/tech-talks/tree/main/talk-materials/2022-03-01--functional-programming-in-python)
+
 ### 02/15/2022
 
 A Primer on Functional Programming (Sarah Withee)
