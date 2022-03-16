@@ -12,10 +12,6 @@ Find us on the GSA TTS Slack in the [#tech-talks](https://gsa-tts.slack.com/app_
 
 ## Upcoming Tech Talks
 
-**March 15, 2022**
-
-*[Functional Programming in Ruby a.k.a. I Elm'd My Ruby and So Can You!](https://github.com/18F/tech-talks/issues/66)* (Matt Cloyd)
-
 **March 29, 2022**
 
 *[Functional Programming in JavaScript](https://github.com/18F/tech-talks/issues/67)* (Matt Henry)
