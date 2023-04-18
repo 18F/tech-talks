@@ -12,9 +12,7 @@ Find us on the GSA TTS Slack in the [#tech-talks](https://gsa-tts.slack.com/app_
 
 ## Upcoming Tech Talks
 
-**March 29, 2022**
-
-*[Functional Programming in JavaScript](https://github.com/18F/tech-talks/issues/67)* (Matt Henry)
+We're scheduling our next talks soon. Stay tuned!
 
 For past talks, check out our [Archive](archive.md).
 
@@ -40,7 +38,7 @@ If you're not a TTS staffer but want to see what people are talking about, poke 
 
 Q. As a presenter, how do I tock this time?
 
-A. `968 - 18F / Non-Billable`.
+A. Bill it under your project if you have one, or 18F/Non-Billable if you don't. See the [revised Tock guidance](https://docs.google.com/document/d/1FG4Gsv-diySrt8fgZxMCRg9mA1SD2RZJRC07ZlDAGAI/edit#heading=h.mh798s6y4h4) as of Jan 20, 2023.
 
 ## Public domain
 
