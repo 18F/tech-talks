@@ -6,7 +6,7 @@ This repository is a place to store the related materials, so they:
 * aren't lost to the sands of time or Slack, and
 * can be useful to others.
 
-The current leaders are [Sarah Withee](https://github.com/geekygirlsarah) and [Julia Allen](https://github.com/julialeague).
+The current lead is [Julia Allen](https://github.com/julialeague).
 
 Find us on the GSA TTS Slack in the [#tech-talks](https://gsa-tts.slack.com/app_redirect?channel=tech-talks)🔒 channel.
 
